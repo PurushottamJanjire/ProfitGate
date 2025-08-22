@@ -1,0 +1,20 @@
+# Backend (Spring Boot / Maven / Gradle)
+target/
+*.jar
+*.war
+*.iml
+.idea/
+*.log
+
+# Frontend (React / Node)
+node_modules/
+build/
+dist/
+.npm/
+.env
+
+# OS / Editors
+.vscode/
+.DS_Store
+Thumbs.db
+
